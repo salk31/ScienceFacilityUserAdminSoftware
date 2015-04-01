@@ -1,4 +1,4 @@
-# ScienceFacilityUserAdminSoftware
+# Science Facility User Admin Software
 Hub for collaboration between developers of user administration software for science facilities.
 
 We are starting to add per-facility content to the wiki:
