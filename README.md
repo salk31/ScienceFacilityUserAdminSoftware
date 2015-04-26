@@ -10,6 +10,7 @@ TODO
 ====
 * Commonly used software - reporting, publications
 * More facilities
+* Get half decent search ranking so people can find us
 
 
 
